@@ -43,20 +43,6 @@ body {
     margin-left: 30px;
 }
 
-#cards {
-    margin-top: 200px;
-}
-
-.card-text {
-    color: black;
-}
-
-#list-head {
-    position: relative;
-    bottom: -400px;
-    left: -400px;
-}
-
 #main-content {
     font-size: 30pt;
     color: white;
@@ -112,4 +98,23 @@ body {
 
 #btnSec:hover {
      background-color: blue;
+}
+
+#cards-row {
+    margin-top: 200px;
+}
+
+.card-text {
+    color: black;
+}
+
+#list-head {
+    position: relative;
+    bottom: -400px;
+    left: -430px;
+}
+
+#card {
+    position: relative;
+    left: -150px;
 }

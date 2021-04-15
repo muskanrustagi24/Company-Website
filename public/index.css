@@ -97,7 +97,7 @@ body {
      background-color: blue;
 }
 
-#cards {
+#cards-row {
     margin-top: 200px;
 }
 
@@ -108,5 +108,10 @@ body {
 #list-head {
     position: relative;
     bottom: -400px;
-    left: -400px;
+    left: -430px;
+}
+
+#card {
+    position: relative;
+    left: -150px;
 }
