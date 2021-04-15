@@ -29,7 +29,7 @@ app.get('/signup', (req, res) => {
 app.post('/signup', async (req, res) => {
   const user = await Users.create({
     username: req.body.username,
-    password: req.body.password, // NOTE: in production we save hash of password
+    password: req.body.password, 
     email: req.body.email,
   })
 
