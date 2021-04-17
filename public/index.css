@@ -120,3 +120,8 @@ body {
     position: relative;
     left: -150px;
 }
+
+#bottom {
+    height: 70px;
+    background-color: black;
+}
