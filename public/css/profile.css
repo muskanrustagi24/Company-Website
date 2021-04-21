@@ -119,7 +119,16 @@ body {
     left: -150px;
 }
 
-#bottom {
-    height: 70px;
-    background-color: black;
+#footer{
+    height: 120px;
+    width: 1300px;
+    margin-top: 120px;
+    background-color: orangered;
+    color: black;
+    font-weight: bold;
+}
+
+#footer-text{
+    position: relative;
+    right:250px;
 }
